@@ -1,0 +1,16 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Thu 05 Mar 2015 05:39:03 PM EST
+#Cmp ( order = Reference )
+| C1         .1u         ; 1276-1007-1-ND; .031        ;             ;             ;             ;             ;             ;             
+| C2         10u         ; 490-3886-1-ND; .171        ;             ;             ;             ;             ;             ;             
+| J1         AVRISP6     ; 952-1922-ND ; .41         ;             ;             ;             ;             ;             ;             
+| P1         PINS1       ; 277-1647-ND ; .278        ;             ;             ;             ;             ;             ;             
+| P2         PINS2       ; 277-1647-ND ; .278        ;             ;             ;             ;             ;             ;             
+| P3         CONN_1      ;             ;             ;             ;             ;             ;             ;             ;             
+| P4         CONN_1      ;             ;             ;             ;             ;             ;             ;             ;             
+| P5         PINS1-MATE  ; 277-1609-ND ; .69         ;             ;             ;             ;             ;             ;             
+| P6         PINS2-MATE  ; 277-1609-ND ; .69         ;             ;             ;             ;             ;             ;             
+| PCB1       https://oshpark.com/shared_projects/ZDUBhs9S; N/A         ; 2.15        ;             ;             ;             ;             ;             ;             
+| U1         ATTINYX5    ; ATTINY85-20SU-ND; 1.40        ;             ;             ;             ;             ;             ;             
+#End Cmp
+
+#End List
